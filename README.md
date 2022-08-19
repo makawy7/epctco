@@ -11,6 +11,12 @@ Clone the Github repo and use Composer to install dependencies
 2. `cd epctco`
 3. `composer install`
 
+
+## Run
+
+`php artisan serve`
+
+
 ## Built With
 
 - [PHP Laravel](https://laravel.com/)
